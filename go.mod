@@ -1,3 +1,3 @@
-module api-rest
+module resthandler
 
 go 1.13
